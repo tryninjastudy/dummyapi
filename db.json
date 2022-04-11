@@ -18,6 +18,10 @@
 		{
 			"bot": "Anything else?",
 			"human": "Yes, with grilled vegetables"
+		},
+		{
+			"bot": "Would you like some water?",
+			"human": "Yes, please"
 		}
 	]
 }
